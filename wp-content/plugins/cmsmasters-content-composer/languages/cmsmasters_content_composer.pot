@@ -1,0 +1,4369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CMSMasters Content Composer 1.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-18 11:33+0200\n"
+"PO-Revision-Date: 2016-11-18 11:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: cmsmasters <cmsmstrs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cmsmasters-content-composer.php:137
+#: cmsmasters-content-composer.php:225
+#: inc/shortcodes.php:1379
+#: inc/shortcodes.php:1539
+#: inc/shortcodes.php:1771
+#: inc/profile/profiles-posttype.php:108
+msgid "Title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:138
+#: cmsmasters-content-composer.php:1282
+msgid "Subtitle"
+msgstr ""
+
+#: cmsmasters-content-composer.php:139
+#: cmsmasters-content-composer.php:525
+msgid "Content"
+msgstr ""
+
+#: cmsmasters-content-composer.php:140
+msgid "Icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:141
+#: cmsmasters-content-composer.php:208
+#: cmsmasters-content-composer.php:726
+#: cmsmasters-content-composer.php:1279
+msgid "Image"
+msgstr ""
+
+#: cmsmasters-content-composer.php:142
+msgid "Number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:143
+msgid "Size"
+msgstr ""
+
+#: cmsmasters-content-composer.php:144
+msgid "Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:145
+#: cmsmasters-content-composer.php:209
+msgid "Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:146
+msgid "Divider"
+msgstr ""
+
+#: cmsmasters-content-composer.php:147
+msgid "Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:148
+msgid "Mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:149
+#: inc/shortcodes.php:3177
+#: inc/shortcodes.php:5717
+msgid "Name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:150
+#: cmsmasters-content-composer.php:696
+msgid "Icon Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:151
+msgid "Order By"
+msgstr ""
+
+#: cmsmasters-content-composer.php:152
+#: inc/profile/profiles-posttype.php:112
+#: inc/project/projects-posttype.php:136
+msgid "Order"
+msgstr ""
+
+#: cmsmasters-content-composer.php:153
+msgid "Designates the ascending or descending order of the 'order by' parameter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:154
+#: cmsmasters-content-composer.php:220
+#: cmsmasters-content-composer.php:1090
+#: inc/profile/profiles-posttype.php:110
+#: inc/project/projects-posttype.php:132
+msgid "Categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:155
+msgid "Layout"
+msgstr ""
+
+#: cmsmasters-content-composer.php:156
+msgid "click here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:157
+msgid "for more information"
+msgstr ""
+
+#: cmsmasters-content-composer.php:158
+msgid "Columns Count"
+msgstr ""
+
+#: cmsmasters-content-composer.php:159
+msgid "number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:160
+msgid "(0 if empty)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:161
+msgid "If empty, default color scheme will be applied"
+msgstr ""
+
+#: cmsmasters-content-composer.php:162
+msgid "Note:"
+msgstr ""
+
+#: cmsmasters-content-composer.php:163
+msgid "Click here to change this text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:164
+msgid "number, in pixels (default value if empty or 0)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:165
+msgid "Text Align"
+msgstr ""
+
+#: cmsmasters-content-composer.php:166
+msgid "Link Target"
+msgstr ""
+
+#: cmsmasters-content-composer.php:167
+msgid "Open link in a SAME tab/window"
+msgstr ""
+
+#: cmsmasters-content-composer.php:168
+msgid "Open link in a NEW tab/window"
+msgstr ""
+
+#: cmsmasters-content-composer.php:169
+msgid "number, in pixels (default value if empty)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:170
+#: cmsmasters-content-composer.php:183
+msgid "number, in pixels"
+msgstr ""
+
+#: cmsmasters-content-composer.php:171
+#: cmsmasters-content-composer.php:1347
+msgid "Enter your link here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:172
+msgid "Top Margin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:173
+msgid "Bottom Margin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:174
+msgid "Autoplay"
+msgstr ""
+
+#: cmsmasters-content-composer.php:175
+#: cmsmasters-content-composer.php:571
+msgid "Animate slider automatically"
+msgstr ""
+
+#: cmsmasters-content-composer.php:176
+#: cmsmasters-content-composer.php:1396
+msgid "Repeat"
+msgstr ""
+
+#: cmsmasters-content-composer.php:177
+msgid "Preload"
+msgstr ""
+
+#: cmsmasters-content-composer.php:178
+msgid "Audio"
+msgstr ""
+
+#: cmsmasters-content-composer.php:179
+msgid "Layout Mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:180
+msgid "Metadata"
+msgstr ""
+
+#: cmsmasters-content-composer.php:181
+msgid "Height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:182
+msgid "Border"
+msgstr ""
+
+#: cmsmasters-content-composer.php:184
+msgid "Pause Time"
+msgstr ""
+
+#: cmsmasters-content-composer.php:185
+msgid "if '0' - autoslide disabled, if empty - '5' (in seconds)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:186
+msgid "Pause on Hover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:187
+msgid "You can set any border radius rule here."
+msgstr ""
+
+#: cmsmasters-content-composer.php:188
+#: cmsmasters-content-composer.php:532
+msgid "For creating correct rule please use"
+msgstr ""
+
+#: cmsmasters-content-composer.php:189
+#: cmsmasters-content-composer.php:424
+msgid "border radius generator"
+msgstr ""
+
+#: cmsmasters-content-composer.php:190
+msgid "But copy only value of the first rule, for example like"
+msgstr ""
+
+#: cmsmasters-content-composer.php:191
+#: cmsmasters-content-composer.php:426
+msgid "on this screenshot"
+msgstr ""
+
+#: cmsmasters-content-composer.php:197
+#: cmsmasters-content-composer.php:1371
+msgid "Default"
+msgstr ""
+
+#: cmsmasters-content-composer.php:198
+msgid "Left"
+msgstr ""
+
+#: cmsmasters-content-composer.php:199
+msgid "Center"
+msgstr ""
+
+#: cmsmasters-content-composer.php:200
+msgid "Right"
+msgstr ""
+
+#: cmsmasters-content-composer.php:201
+msgid "Enable"
+msgstr ""
+
+#: cmsmasters-content-composer.php:202
+msgid "Block"
+msgstr ""
+
+#: cmsmasters-content-composer.php:203
+msgid "Inline"
+msgstr ""
+
+#: cmsmasters-content-composer.php:204
+msgid "Inline-Block"
+msgstr ""
+
+#: cmsmasters-content-composer.php:205
+msgid "Show"
+msgstr ""
+
+#: cmsmasters-content-composer.php:206
+#: inc/shortcodes.php:5719
+#: inc/project/projects-posttype.php:134
+msgid "Date"
+msgstr ""
+
+#: cmsmasters-content-composer.php:207
+msgid "Amount"
+msgstr ""
+
+#: cmsmasters-content-composer.php:210
+msgid "Campaign Name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:211
+msgid "Amount of donations still needed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:212
+msgid "Progress percent"
+msgstr ""
+
+#: cmsmasters-content-composer.php:213
+msgid "Donation button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:214
+msgid "ID"
+msgstr ""
+
+#: cmsmasters-content-composer.php:215
+msgid "Menu Order"
+msgstr ""
+
+#: cmsmasters-content-composer.php:216
+msgid "Popular"
+msgstr ""
+
+#: cmsmasters-content-composer.php:217
+msgid "Random"
+msgstr ""
+
+#: cmsmasters-content-composer.php:218
+msgid "ASC"
+msgstr ""
+
+#: cmsmasters-content-composer.php:219
+msgid "DESC"
+msgstr ""
+
+#: cmsmasters-content-composer.php:221
+#: inc/profile/profiles-posttype.php:111
+#: inc/project/projects-posttype.php:135
+msgid "Comments"
+msgstr ""
+
+#: cmsmasters-content-composer.php:222
+#: inc/like/likes-posttype.php:16
+msgid "Likes"
+msgstr ""
+
+#: cmsmasters-content-composer.php:223
+msgid "Author"
+msgstr ""
+
+#: cmsmasters-content-composer.php:224
+#: inc/project/projects-posttype.php:133
+msgid "Tags"
+msgstr ""
+
+#: cmsmasters-content-composer.php:226
+msgid "Excerpt"
+msgstr ""
+
+#: cmsmasters-content-composer.php:227
+msgid "Image Rollover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:228
+msgid "'Read More' button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:229
+msgid "Side Icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:230
+msgid "Top Icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:231
+msgid "Vertical"
+msgstr ""
+
+#: cmsmasters-content-composer.php:232
+msgid "Horizontal"
+msgstr ""
+
+#: cmsmasters-content-composer.php:233
+msgid "Left side"
+msgstr ""
+
+#: cmsmasters-content-composer.php:234
+msgid "Right side"
+msgstr ""
+
+#: cmsmasters-content-composer.php:235
+msgid "Choose icon for your button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:236
+#: cmsmasters-content-composer.php:892
+msgid "Slider"
+msgstr ""
+
+#: cmsmasters-content-composer.php:237
+msgid "Grid"
+msgstr ""
+
+#: cmsmasters-content-composer.php:238
+msgid "Short"
+msgstr ""
+
+#: cmsmasters-content-composer.php:239
+#: framework/cmsmasters-composer-lightbox-functions.php:550
+msgid "Medium"
+msgstr ""
+
+#: cmsmasters-content-composer.php:240
+msgid "Long"
+msgstr ""
+
+#: cmsmasters-content-composer.php:241
+msgid "Solid"
+msgstr ""
+
+#: cmsmasters-content-composer.php:242
+msgid "Dotted"
+msgstr ""
+
+#: cmsmasters-content-composer.php:243
+msgid "Dashed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:244
+msgid "Double"
+msgstr ""
+
+#: cmsmasters-content-composer.php:245
+msgid "Groove"
+msgstr ""
+
+#: cmsmasters-content-composer.php:246
+msgid "Ridge"
+msgstr ""
+
+#: cmsmasters-content-composer.php:247
+msgid "Inset"
+msgstr ""
+
+#: cmsmasters-content-composer.php:248
+msgid "Outset"
+msgstr ""
+
+#: cmsmasters-content-composer.php:249
+msgid "Decimal number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:250
+msgid "Decimal leading zero number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:251
+msgid "Lower roman number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:252
+msgid "Upper roman number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:253
+msgid "Lower greek number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:254
+msgid "Lower latin number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:255
+msgid "Upper latin number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:256
+msgid "Change background on hover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:257
+msgid "Background slide to left"
+msgstr ""
+
+#: cmsmasters-content-composer.php:258
+msgid "Background slide to right"
+msgstr ""
+
+#: cmsmasters-content-composer.php:259
+msgid "Background slide to top"
+msgstr ""
+
+#: cmsmasters-content-composer.php:260
+msgid "Background slide to bottom"
+msgstr ""
+
+#: cmsmasters-content-composer.php:261
+msgid "Background expand vertically"
+msgstr ""
+
+#: cmsmasters-content-composer.php:262
+msgid "Background expand horizontally"
+msgstr ""
+
+#: cmsmasters-content-composer.php:263
+msgid "Background expand diagonally"
+msgstr ""
+
+#: cmsmasters-content-composer.php:264
+msgid "Shadow"
+msgstr ""
+
+#: cmsmasters-content-composer.php:265
+msgid "Icon on dark background"
+msgstr ""
+
+#: cmsmasters-content-composer.php:266
+msgid "Icon on light background"
+msgstr ""
+
+#: cmsmasters-content-composer.php:267
+msgid "Icon with divider"
+msgstr ""
+
+#: cmsmasters-content-composer.php:268
+msgid "Inverse icon color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:269
+msgid "Icon slide from left"
+msgstr ""
+
+#: cmsmasters-content-composer.php:270
+msgid "Icon slide from right"
+msgstr ""
+
+#: cmsmasters-content-composer.php:271
+msgid "Replace with icon from left"
+msgstr ""
+
+#: cmsmasters-content-composer.php:272
+msgid "Replace with icon from right"
+msgstr ""
+
+#: cmsmasters-content-composer.php:273
+msgid "Replace with icon from top"
+msgstr ""
+
+#: cmsmasters-content-composer.php:274
+msgid "Replace with icon from bottom"
+msgstr ""
+
+#: cmsmasters-content-composer.php:278
+msgid "Animation"
+msgstr ""
+
+#: cmsmasters-content-composer.php:279
+msgid "Shortcode animation effect when a user scrolls to its position for the first time."
+msgstr ""
+
+#: cmsmasters-content-composer.php:280
+msgid "This option works only in modern browsers"
+msgstr ""
+
+#: cmsmasters-content-composer.php:281
+msgid "Animation Delay"
+msgstr ""
+
+#: cmsmasters-content-composer.php:282
+msgid "Delay before shortcode animation starts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:283
+msgid "number, in milliseconds (1 second = 1000 milliseconds)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:286
+msgid "Additional Classes"
+msgstr ""
+
+#: cmsmasters-content-composer.php:287
+msgid "You can add additional CSS classes (separated by spaces) to the shortcode, if you wish to style content elements differently"
+msgstr ""
+
+#: cmsmasters-content-composer.php:290
+#: inc/shortcodes.php:5420
+#: inc/shortcodes.php:5713
+msgid "Filter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:291
+msgid "Filter Button Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:292
+msgid "Enter filter button custom title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:293
+msgid "if empty, default filter button title will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:294
+msgid "This option works only if filter enabled"
+msgstr ""
+
+#: cmsmasters-content-composer.php:295
+msgid "Filter 'All Categories' Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:296
+msgid "Enter filter 'All Categories' custom text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:297
+msgid "if empty, default filter 'All Categories' text will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:298
+msgid "Sorting By Name Button Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:299
+msgid "Enter sorting by name button custom title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:300
+msgid "if empty, default sorting by name button title will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:301
+msgid "Sorting By Date Button Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:302
+msgid "Enter sorting by date button custom title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:303
+msgid "if empty, default sorting by date button title will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:304
+msgid "This option works only if sorting enabled"
+msgstr ""
+
+#: cmsmasters-content-composer.php:305
+#: cmsmasters-content-composer.php:308
+msgid "Pagination"
+msgstr ""
+
+#: cmsmasters-content-composer.php:306
+msgid "'Load More' button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:307
+msgid "Disable additional posts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:309
+msgid "Choose your method of viewing additional posts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:310
+msgid "'Load More' Button Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:311
+msgid "Enter 'Load More' button custom title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:312
+msgid "if empty, default 'Load More' button title will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:313
+#: cmsmasters-content-composer.php:536
+msgid "Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:321
+msgid "Text Block"
+msgstr ""
+
+#: cmsmasters-content-composer.php:328
+msgid "Heading"
+msgstr ""
+
+#: cmsmasters-content-composer.php:329
+msgid "Heading Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:330
+msgid "Heading Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:331
+msgid "Google Font"
+msgstr ""
+
+#: cmsmasters-content-composer.php:332
+msgid "Font Size"
+msgstr ""
+
+#: cmsmasters-content-composer.php:333
+msgid "Line Height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:334
+msgid "Font Weight"
+msgstr ""
+
+#: cmsmasters-content-composer.php:335
+msgid "Font Style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:336
+msgid "Heading Icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:337
+msgid "Heading Border Radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:338
+msgid "Enter heading background border radius."
+msgstr ""
+
+#: cmsmasters-content-composer.php:339
+msgid "Works only for headings with background color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:340
+msgid "Heading Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:341
+msgid "Heading Custom Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:342
+msgid "If empty, heading will use color of parent section color scheme"
+msgstr ""
+
+#: cmsmasters-content-composer.php:343
+msgid "Heading Custom Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:344
+msgid "Heading Divider Custom Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:345
+msgid "If empty, heading divider will use border color of parent section color scheme"
+msgstr ""
+
+#: cmsmasters-content-composer.php:352
+msgid "Here you can add, edit, remove or sort audio links"
+msgstr ""
+
+#: cmsmasters-content-composer.php:353
+msgid "Please add audio in several formats for your shortcode to work properly in all browsers"
+msgstr ""
+
+#: cmsmasters-content-composer.php:354
+msgid "If checked, audio will play as soon as the audio is ready"
+msgstr ""
+
+#: cmsmasters-content-composer.php:355
+msgid "If checked, audio will be repeated from the beginning after finishing"
+msgstr ""
+
+#: cmsmasters-content-composer.php:356
+msgid "Specifies if and how the audio should be loaded when the page loads"
+msgstr ""
+
+#: cmsmasters-content-composer.php:357
+msgid "None - the audio should not be loaded when the page loads"
+msgstr ""
+
+#: cmsmasters-content-composer.php:358
+msgid "Auto - the audio should be loaded entirely when the page loads"
+msgstr ""
+
+#: cmsmasters-content-composer.php:359
+#: cmsmasters-content-composer.php:998
+msgid "Metadata - only metadata should be loaded when the page loads"
+msgstr ""
+
+#: cmsmasters-content-composer.php:365
+msgid "Blog"
+msgstr ""
+
+#: cmsmasters-content-composer.php:366
+msgid "Choose what parameter your posts will be ordered by"
+msgstr ""
+
+#: cmsmasters-content-composer.php:367
+msgid "Posts Number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:368
+msgid "Enter the number of posts to be shown per page"
+msgstr ""
+
+#: cmsmasters-content-composer.php:369
+#: cmsmasters-content-composer.php:811
+msgid "number, if empty - show all posts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:370
+msgid "Show posts associated with certain categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:371
+#: cmsmasters-content-composer.php:802
+msgid "If you don't choose any post categories, all your posts will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:372
+msgid "Standard"
+msgstr ""
+
+#: cmsmasters-content-composer.php:373
+#: cmsmasters-content-composer.php:1112
+msgid "Columns"
+msgstr ""
+
+#: cmsmasters-content-composer.php:374
+msgid "Timeline"
+msgstr ""
+
+#: cmsmasters-content-composer.php:375
+msgid "Choose columns layout mode for your blog posts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:376
+msgid "Masonry"
+msgstr ""
+
+#: cmsmasters-content-composer.php:377
+#: cmsmasters-content-composer.php:806
+msgid "Choose number of posts per row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:378
+msgid "4 columns will be shown for pages with a fullwidth layout only. For pages with a sidebar enabled, maximum columns amount is 3."
+msgstr ""
+
+#: cmsmasters-content-composer.php:379
+#: cmsmasters-content-composer.php:816
+msgid "Choose blog posts metadata you want to be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:380
+msgid "If checked, blog posts category filter will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:387
+msgid "Show Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:388
+msgid "If checked, button will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:389
+#: cmsmasters-content-composer.php:662
+msgid "Button Label"
+msgstr ""
+
+#: cmsmasters-content-composer.php:390
+#: cmsmasters-content-composer.php:663
+msgid "Enter button label here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:391
+msgid "Button Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:392
+msgid "Regular Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:393
+msgid "Donation Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:394
+msgid "Donation Campaign"
+msgstr ""
+
+#: cmsmasters-content-composer.php:395
+#: cmsmasters-content-composer.php:664
+#: cmsmasters-content-composer.php:1249
+msgid "Button Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:396
+#: cmsmasters-content-composer.php:665
+msgid "Enter button link here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:397
+#: cmsmasters-content-composer.php:666
+msgid "Button Target"
+msgstr ""
+
+#: cmsmasters-content-composer.php:398
+msgid "Enter button target here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:399
+#: cmsmasters-content-composer.php:450
+msgid "Button Position"
+msgstr ""
+
+#: cmsmasters-content-composer.php:400
+#: cmsmasters-content-composer.php:451
+msgid "Choose horizontal position for your button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:401
+msgid "Choose Button Style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:402
+msgid "Button Label Google Font"
+msgstr ""
+
+#: cmsmasters-content-composer.php:403
+msgid "Choose custom Google font for your button label"
+msgstr ""
+
+#: cmsmasters-content-composer.php:404
+msgid "if empty, theme default button label font will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:405
+msgid "Button Label Font Size"
+msgstr ""
+
+#: cmsmasters-content-composer.php:406
+msgid "Choose custom font size for your button label "
+msgstr ""
+
+#: cmsmasters-content-composer.php:407
+msgid "if empty, theme default button label font size will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:408
+msgid "Button Label Line Height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:409
+msgid "Choose custom line height for your button label "
+msgstr ""
+
+#: cmsmasters-content-composer.php:410
+msgid "if empty, theme default button label line height will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:411
+msgid "Button Label Font Weight"
+msgstr ""
+
+#: cmsmasters-content-composer.php:412
+msgid "Set font weight value for your button label"
+msgstr ""
+
+#: cmsmasters-content-composer.php:413
+msgid "Button Label Font Style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:414
+msgid "Set font style value for your button label"
+msgstr ""
+
+#: cmsmasters-content-composer.php:415
+msgid "Button Left & Right Paddings"
+msgstr ""
+
+#: cmsmasters-content-composer.php:416
+msgid "Set right/left paddings for your button (to make it wider or narrower)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:417
+msgid "if empty, theme default button paddings will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:418
+msgid "Button Border Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:419
+msgid "Enter button border width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:420
+msgid "Button Border Style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:421
+msgid "Button Border Radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:421
+msgid "Enter button border radius (default if empty)."
+msgstr ""
+
+#: cmsmasters-content-composer.php:422
+msgid "You can set any border radius rule here. "
+msgstr ""
+
+#: cmsmasters-content-composer.php:423
+msgid "For creating correct rule please use "
+msgstr ""
+
+#: cmsmasters-content-composer.php:425
+msgid "But copy only value of the first rule, for example like "
+msgstr ""
+
+#: cmsmasters-content-composer.php:427
+msgid "Button Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:428
+msgid "Choose your custom button background color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:429
+msgid "Button Text Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:430
+msgid "Choose your custom button text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:431
+msgid "Button Border Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:432
+msgid "Choose your custom button border color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:433
+msgid "Button Background Color on Mouseover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:434
+msgid "Choose your custom button background color on mouseover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:435
+msgid "Button Text Color on Mouseover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:436
+msgid "Choose your custom button text color on mouseover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:437
+msgid "Button Border Color on Mouseover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:438
+msgid "Choose your custom button border color on mouseover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:439
+msgid "Button Icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:440
+msgid "Choose an icon for your button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:441
+msgid "Enter button title here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:442
+msgid "Choose custom Google font for your button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:443
+msgid "if empty, theme default button title font will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:444
+msgid "Choose custom font size for your button title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:445
+msgid "if empty, theme default button title font size will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:446
+msgid "Choose custom line height for your button title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:447
+msgid "if empty, theme default button title line height will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:448
+msgid "Set font weight value for your button title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:449
+msgid "Choose font style for your button title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:452
+msgid "Custom Button Colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:453
+msgid "If not checked, button will use parent section color scheme colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:460
+msgid "Clients"
+msgstr ""
+
+#: cmsmasters-content-composer.php:461
+msgid "Add, edit, remove or sort your clients here to be displayed on page"
+msgstr ""
+
+#: cmsmasters-content-composer.php:462
+msgid "Choose number of clients per row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:463
+msgid "Client items height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:464
+msgid "number, in pixels (default value is 180)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:466
+msgid "Speed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:467
+msgid "Slide speed in seconds"
+msgstr ""
+
+#: cmsmasters-content-composer.php:468
+msgid "If empty - 1 (in seconds)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:469
+msgid "Slides Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:470
+msgid "Arrow Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:477
+msgid "Contact Form"
+msgstr ""
+
+#: cmsmasters-content-composer.php:478
+msgid "CMSMasters Contact Form Builder"
+msgstr ""
+
+#: cmsmasters-content-composer.php:479
+msgid "Contact Form 7"
+msgstr ""
+
+#: cmsmasters-content-composer.php:480
+msgid "Contact Form Plugin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:481
+msgid "Choose one of supported contact form plugins"
+msgstr ""
+
+#: cmsmasters-content-composer.php:482
+msgid "Please make sure that the Contact Form plugin you have chosen is currently installed and activated."
+msgstr ""
+
+#: cmsmasters-content-composer.php:483
+msgid "Contact Form 7 - Form Name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:484
+msgid "Choose your form name from Contact Form 7 plugin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:485
+msgid "CMSMasters Contact Form Builder - Form Name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:486
+msgid "Choose your form name from CMSMasters Contact Form Builder plugin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:487
+msgid "CMSMasters Contact Form Builder - Email Address"
+msgstr ""
+
+#: cmsmasters-content-composer.php:488
+msgid "Enter email address for your CMSMasters Contact Form Builder plugin form"
+msgstr ""
+
+#: cmsmasters-content-composer.php:489
+msgid "You can enter multiple email addresses separated by commas"
+msgstr ""
+
+#: cmsmasters-content-composer.php:495
+msgid "Divider Length"
+msgstr ""
+
+#: cmsmasters-content-composer.php:496
+msgid "Divider Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:497
+msgid "Divider Style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:498
+msgid "Divider Position"
+msgstr ""
+
+#: cmsmasters-content-composer.php:499
+msgid "Divider Custom Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:500
+msgid "If empty, divider will use border color of parent section color scheme"
+msgstr ""
+
+#: cmsmasters-content-composer.php:506
+msgid "Embed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:507
+msgid "Enter your embed link."
+msgstr ""
+
+#: cmsmasters-content-composer.php:508
+msgid "This field support links from"
+msgstr ""
+
+#: cmsmasters-content-composer.php:509
+msgid "such services"
+msgstr ""
+
+#: cmsmasters-content-composer.php:510
+#: cmsmasters-content-composer.php:989
+msgid "Max Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:511
+msgid "Defines max width of the embed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:512
+msgid "('Media file width' if empty)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:513
+#: cmsmasters-content-composer.php:991
+msgid "Max Height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:514
+msgid "Defines max height of the embed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:515
+msgid "('Media file height' if empty)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:516
+msgid "Wrap Video"
+msgstr ""
+
+#: cmsmasters-content-composer.php:517
+msgid "Wrap video into container to ignore default video height/max-height and set a 16:9 proportion instead."
+msgstr ""
+
+#: cmsmasters-content-composer.php:518
+msgid "Recommended only for video embeds"
+msgstr ""
+
+#: cmsmasters-content-composer.php:524
+msgid "Featured Block"
+msgstr ""
+
+#: cmsmasters-content-composer.php:526
+msgid "Text Block Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:527
+msgid "Choose text block width (percentage)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:528
+msgid "Text Block Position"
+msgstr ""
+
+#: cmsmasters-content-composer.php:529
+msgid "Text Block Paddings"
+msgstr ""
+
+#: cmsmasters-content-composer.php:530
+msgid "Enter full paddings CSS rule for text block"
+msgstr ""
+
+#: cmsmasters-content-composer.php:531
+msgid "if empty theme default paddings will be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:533
+msgid "this link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:534
+msgid "Custom Block Colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:535
+msgid "If not checked, featured block will use parent section color scheme colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:537
+msgid "image is added in its actual size regardless of the block dimensions"
+msgstr ""
+
+#: cmsmasters-content-composer.php:538
+msgid "image is resized to cover the whole block area"
+msgstr ""
+
+#: cmsmasters-content-composer.php:539
+msgid "image is resized to fit into the block area"
+msgstr ""
+
+#: cmsmasters-content-composer.php:540
+msgid "Featured Block Top Padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:541
+msgid "Featured Block Bottom Padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:542
+msgid "Featured Block Border Radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:543
+msgid "Enter featured block border radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:549
+msgid "Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:550
+msgid "Images"
+msgstr ""
+
+#: cmsmasters-content-composer.php:551
+msgid "Choose images to be displayed in the gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:552
+msgid "Gallery Big Preview Image Size"
+msgstr ""
+
+#: cmsmasters-content-composer.php:553
+msgid "Gallery Preview Image Size"
+msgstr ""
+
+#: cmsmasters-content-composer.php:554
+msgid "Choose image size for the preview thumbnails"
+msgstr ""
+
+#: cmsmasters-content-composer.php:555
+msgid "For Hover Slider it is recommended that you use images with min size of 820&#215;490 or larger, but with the same image ratio"
+msgstr ""
+
+#: cmsmasters-content-composer.php:556
+msgid "Hover Slider"
+msgstr ""
+
+#: cmsmasters-content-composer.php:557
+msgid "Image Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:558
+msgid "Gallery Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:559
+msgid "Grid Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:560
+msgid "Masonry Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:561
+msgid "Images Number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:562
+msgid "Amount of images that will appear each time a 'Load More' button is clicked"
+msgstr ""
+
+#: cmsmasters-content-composer.php:563
+msgid "number, if empty - show all images at once"
+msgstr ""
+
+#: cmsmasters-content-composer.php:564
+msgid "Gallery Gap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:565
+msgid "number, in pixels, no gap if empty"
+msgstr ""
+
+#: cmsmasters-content-composer.php:566
+msgid "Active Slide"
+msgstr ""
+
+#: cmsmasters-content-composer.php:567
+msgid "if empty - 1 (number)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:568
+msgid "Animation Effect"
+msgstr ""
+
+#: cmsmasters-content-composer.php:569
+msgid "Slide"
+msgstr ""
+
+#: cmsmasters-content-composer.php:570
+msgid "Fade"
+msgstr ""
+
+#: cmsmasters-content-composer.php:572
+msgid "Slideshow Speed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:573
+msgid "Set time during which each slide will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:574
+msgid "if empty - '7' (in seconds)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:575
+msgid "Animation Speed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:576
+msgid "Set animation transitions speed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:577
+msgid "if empty - '600' (in milliseconds, 1 second = 1000 milliseconds)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:578
+msgid "Rewind"
+msgstr ""
+
+#: cmsmasters-content-composer.php:579
+msgid "Slide to first when you click next on last slide"
+msgstr ""
+
+#: cmsmasters-content-composer.php:580
+msgid "Rewind speed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:581
+msgid "Speed of sliding to the first slide"
+msgstr ""
+
+#: cmsmasters-content-composer.php:582
+msgid "if empty - '1000' (in milliseconds, 1 second = 1000 milliseconds)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:583
+msgid "Navigation Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:584
+msgid "Arrow Navigation"
+msgstr ""
+
+#: cmsmasters-content-composer.php:585
+msgid "Slider arrow navigation"
+msgstr ""
+
+#: cmsmasters-content-composer.php:586
+msgid "Gallery Columns Amount"
+msgstr ""
+
+#: cmsmasters-content-composer.php:587
+msgid "4 Columns"
+msgstr ""
+
+#: cmsmasters-content-composer.php:588
+msgid "3 Columns"
+msgstr ""
+
+#: cmsmasters-content-composer.php:589
+msgid "2 Columns"
+msgstr ""
+
+#: cmsmasters-content-composer.php:590
+msgid "1 Column"
+msgstr ""
+
+#: cmsmasters-content-composer.php:591
+msgid "Images Links Settings"
+msgstr ""
+
+#: cmsmasters-content-composer.php:592
+msgid "Open images in lightbox"
+msgstr ""
+
+#: cmsmasters-content-composer.php:593
+msgid "Open images in current browser tab/window"
+msgstr ""
+
+#: cmsmasters-content-composer.php:594
+msgid "Open images in a new browser tab/window"
+msgstr ""
+
+#: cmsmasters-content-composer.php:595
+msgid "Disable links on images"
+msgstr ""
+
+#: cmsmasters-content-composer.php:601
+msgid "Google Map"
+msgstr ""
+
+#: cmsmasters-content-composer.php:602
+msgid "Markers"
+msgstr ""
+
+#: cmsmasters-content-composer.php:603
+msgid "Here you can add, edit, remove or sort Google map markers"
+msgstr ""
+
+#: cmsmasters-content-composer.php:604
+#: cmsmasters-content-composer.php:1186
+msgid "Address Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:605
+msgid "address"
+msgstr ""
+
+#: cmsmasters-content-composer.php:606
+msgid "coordinates"
+msgstr ""
+
+#: cmsmasters-content-composer.php:607
+#: framework/inc/editor-additions.php:40
+msgid "Address"
+msgstr ""
+
+#: cmsmasters-content-composer.php:608
+msgid "Enter address to centre your map at"
+msgstr ""
+
+#: cmsmasters-content-composer.php:609
+msgid "Latitude"
+msgstr ""
+
+#: cmsmasters-content-composer.php:610
+msgid "Longitude"
+msgstr ""
+
+#: cmsmasters-content-composer.php:611
+msgid "Map Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:612
+msgid "Roadmap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:613
+msgid "Terrain"
+msgstr ""
+
+#: cmsmasters-content-composer.php:614
+msgid "Hybrid"
+msgstr ""
+
+#: cmsmasters-content-composer.php:615
+msgid "Satellite"
+msgstr ""
+
+#: cmsmasters-content-composer.php:616
+msgid "Map Zoom"
+msgstr ""
+
+#: cmsmasters-content-composer.php:617
+msgid "Map Height Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:618
+#: cmsmasters-content-composer.php:1406
+msgid "Auto"
+msgstr ""
+
+#: cmsmasters-content-composer.php:619
+#: cmsmasters-content-composer.php:1400
+msgid "Fixed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:620
+msgid "Set map fixed height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:621
+msgid "(if empty - 300)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:622
+msgid "Scrollwheel Zoom"
+msgstr ""
+
+#: cmsmasters-content-composer.php:623
+msgid "Double Click Zoom"
+msgstr ""
+
+#: cmsmasters-content-composer.php:624
+msgid "Pan Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:625
+msgid "Zoom Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:626
+msgid "Map Type Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:627
+msgid "Scale Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:628
+msgid "Street View Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:629
+msgid "This control is part of the default UI, and should be set to false when displaying a map type on which the Street View road overlay should not appear (e.g. a non-Earth map type)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:630
+msgid "Overview Map Control"
+msgstr ""
+
+#: cmsmasters-content-composer.php:636
+msgid "Icon Box"
+msgstr ""
+
+#: cmsmasters-content-composer.php:637
+msgid "Box Title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:638
+msgid "Enter box title here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:639
+msgid "Enter box title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:640
+msgid "Box Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:641
+msgid "Centered box with icon above the title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:642
+msgid "Centered box with icon at the top of"
+msgstr ""
+
+#: cmsmasters-content-composer.php:643
+msgid "Box with icon before title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:644
+msgid "Box with icon at the left of"
+msgstr ""
+
+#: cmsmasters-content-composer.php:645
+msgid "Box with icon at the left top of"
+msgstr ""
+
+#: cmsmasters-content-composer.php:646
+msgid "Box Icon Image"
+msgstr ""
+
+#: cmsmasters-content-composer.php:647
+msgid "number, in pixels (if empty - '50')"
+msgstr ""
+
+#: cmsmasters-content-composer.php:648
+msgid "Box Icon Custom Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:649
+msgid "Box Icon Custom Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:650
+msgid "Box Icon Custom Border Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:651
+msgid "Box Custom Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:652
+msgid "Box Custom Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:653
+msgid "Box Custom Border Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:654
+msgid "Box Icon Border Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:655
+msgid "Box Icon Border Radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:656
+msgid "Enter box icon border radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:657
+msgid "Box Border Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:658
+msgid "Box Border Radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:659
+msgid "Enter box border radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:660
+msgid "Box Icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:661
+msgid "Box Icon Number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:667
+msgid "Choose button link target type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:668
+msgid "Choose icon for your shortcode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:669
+msgid "Choose custom size for your icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:670
+msgid "number, in pixels ('40' - if empty)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:671
+msgid "number, in pixels (if empty - '60')"
+msgstr ""
+
+#: cmsmasters-content-composer.php:672
+msgid "Display"
+msgstr ""
+
+#: cmsmasters-content-composer.php:673
+msgid "Choose display type for your icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:674
+#: cmsmasters-content-composer.php:709
+msgid "Icon Position"
+msgstr ""
+
+#: cmsmasters-content-composer.php:675
+msgid "Choose horizontal position for your icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:675
+msgid "Icon Spacer Border Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:676
+msgid "Icon Spacer Border Radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:677
+msgid "Enter icon spacer border radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:678
+msgid "Icon Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:679
+msgid "Enter icon link here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:680
+msgid "Icon Link Target"
+msgstr ""
+
+#: cmsmasters-content-composer.php:681
+msgid "Choose icon link target type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:682
+msgid "Icon Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:683
+msgid "Icon Spacer Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:684
+msgid "Icon Spacer Border Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:690
+msgid "Icon List"
+msgstr ""
+
+#: cmsmasters-content-composer.php:691
+msgid "Here you can add, edit, remove or sort your icon list"
+msgstr ""
+
+#: cmsmasters-content-composer.php:692
+msgid "List Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:693
+msgid "Choose icon list type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:694
+msgid "Icon blocks with content"
+msgstr ""
+
+#: cmsmasters-content-composer.php:695
+msgid "Just list with icons"
+msgstr ""
+
+#: cmsmasters-content-composer.php:697
+msgid "Choose icon type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:698
+msgid "List Items Color Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:699
+msgid "Choose list items color type."
+msgstr ""
+
+#: cmsmasters-content-composer.php:700
+msgid "Apply a custom color as the color of icon border"
+msgstr ""
+
+#: cmsmasters-content-composer.php:701
+msgid "Apply a custom color as the color of icon background"
+msgstr ""
+
+#: cmsmasters-content-composer.php:702
+msgid "Apply a custom color as the color of icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:703
+msgid "Border Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:704
+msgid "Enter icon border width."
+msgstr ""
+
+#: cmsmasters-content-composer.php:705
+msgid "Border Radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:706
+msgid "Enter icon border radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:707
+msgid "List Items Unifier Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:708
+msgid "Enter list items unifier width."
+msgstr ""
+
+#: cmsmasters-content-composer.php:710
+msgid "Choose icon position."
+msgstr ""
+
+#: cmsmasters-content-composer.php:711
+msgid "This option works only for icon blocks."
+msgstr ""
+
+#: cmsmasters-content-composer.php:712
+msgid "Icon / Number Size"
+msgstr ""
+
+#: cmsmasters-content-composer.php:713
+msgid "Icon Space"
+msgstr ""
+
+#: cmsmasters-content-composer.php:714
+msgid "Enter icon space size."
+msgstr ""
+
+#: cmsmasters-content-composer.php:715
+msgid "number, in pixels (if empty - '100')"
+msgstr ""
+
+#: cmsmasters-content-composer.php:716
+msgid "List Item Height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:717
+msgid "Enter list item line height."
+msgstr ""
+
+#: cmsmasters-content-composer.php:718
+msgid "number, in pixels (if empty - default line height)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:727
+msgid "Image Alignment"
+msgstr ""
+
+#: cmsmasters-content-composer.php:728
+msgid "No special alignment"
+msgstr ""
+
+#: cmsmasters-content-composer.php:729
+msgid "Image Caption Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:730
+msgid "No caption if empty"
+msgstr ""
+
+#: cmsmasters-content-composer.php:731
+msgid "Image Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:732
+msgid "No link if empty"
+msgstr ""
+
+#: cmsmasters-content-composer.php:733
+msgid "Open link in a new tab/window?"
+msgstr ""
+
+#: cmsmasters-content-composer.php:734
+msgid "Lightbox"
+msgstr ""
+
+#: cmsmasters-content-composer.php:735
+msgid "Open image link in a lightbox?"
+msgstr ""
+
+#: cmsmasters-content-composer.php:742
+msgid "Notice"
+msgstr ""
+
+#: cmsmasters-content-composer.php:743
+msgid "Notice Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:744
+msgid "Notice Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:745
+msgid "Success"
+msgstr ""
+
+#: cmsmasters-content-composer.php:746
+msgid "Error"
+msgstr ""
+
+#: cmsmasters-content-composer.php:747
+msgid "Info"
+msgstr ""
+
+#: cmsmasters-content-composer.php:748
+msgid "Warning"
+msgstr ""
+
+#: cmsmasters-content-composer.php:749
+msgid "Download"
+msgstr ""
+
+#: cmsmasters-content-composer.php:750
+#: cmsmasters-content-composer.php:1132
+#: cmsmasters-content-composer.php:1427
+msgid "Custom"
+msgstr ""
+
+#: cmsmasters-content-composer.php:751
+msgid "Set custom background color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:752
+msgid "Border Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:753
+msgid "Set custom border color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:754
+msgid "Text Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:755
+msgid "Set custom text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:756
+msgid "Notice Close Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:757
+msgid "Notice Icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:764
+msgid "Portfolio"
+msgstr ""
+
+#: cmsmasters-content-composer.php:765
+msgid "Choose your portfolio projects order by parameter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:766
+msgid "Projects Number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:767
+msgid "Enter the number of projects for showing per page"
+msgstr ""
+
+#: cmsmasters-content-composer.php:768
+msgid "number, if empty - show all projects"
+msgstr ""
+
+#: cmsmasters-content-composer.php:769
+#: cmsmasters-content-composer.php:804
+msgid "Show projects associated with certain categories."
+msgstr ""
+
+#: cmsmasters-content-composer.php:770
+#: cmsmasters-content-composer.php:805
+msgid "If you don't choose any project categories, all your projects will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:771
+msgid "Choose layout type for your portfolio projects"
+msgstr ""
+
+#: cmsmasters-content-composer.php:772
+msgid "Projects Grid"
+msgstr ""
+
+#: cmsmasters-content-composer.php:773
+msgid "Masonry Puzzle"
+msgstr ""
+
+#: cmsmasters-content-composer.php:774
+msgid "Choose grid layout mode for your portfolio projects"
+msgstr ""
+
+#: cmsmasters-content-composer.php:775
+msgid "Perfect grid"
+msgstr ""
+
+#: cmsmasters-content-composer.php:776
+msgid "Masonry grid"
+msgstr ""
+
+#: cmsmasters-content-composer.php:777
+msgid "Choose number of projects per row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:778
+msgid "4 and 5 columns will be shown for pages with a fullwidth layout only. For pages with a sidebar enabled, maximum columns amount is 3."
+msgstr ""
+
+#: cmsmasters-content-composer.php:779
+msgid "And 5 columns will be shown only if custom content width is set and when content area width is 1350px or more."
+msgstr ""
+
+#: cmsmasters-content-composer.php:780
+msgid "Choose portfolio projects metadata that you want to show"
+msgstr ""
+
+#: cmsmasters-content-composer.php:781
+msgid "Gap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:782
+msgid "Choose the gap between portfolio projects"
+msgstr ""
+
+#: cmsmasters-content-composer.php:783
+msgid "Large gap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:784
+msgid "1 Pixel gap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:785
+msgid "No gap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:786
+msgid "If checked, enable portfolio projects category filter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:787
+#: cmsmasters-content-composer.php:955
+msgid "Sorting"
+msgstr ""
+
+#: cmsmasters-content-composer.php:788
+msgid "If checked, enable portfolio projects date & name sorting"
+msgstr ""
+
+#: cmsmasters-content-composer.php:795
+msgid "Posts Slider"
+msgstr ""
+
+#: cmsmasters-content-composer.php:796
+msgid "Order posts by one of the given parameters"
+msgstr ""
+
+#: cmsmasters-content-composer.php:797
+msgid "Choose Posts Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:798
+msgid "Blog posts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:799
+msgid "Portfolio projects"
+msgstr ""
+
+#: cmsmasters-content-composer.php:800
+msgid "Posts Categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:801
+msgid "Show blog posts associated with certain categories."
+msgstr ""
+
+#: cmsmasters-content-composer.php:803
+msgid "Projects Categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:807
+msgid "Posts Amount"
+msgstr ""
+
+#: cmsmasters-content-composer.php:808
+msgid "Amount of posts to be shown at once"
+msgstr ""
+
+#: cmsmasters-content-composer.php:809
+msgid "number, if empty - one post will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:810
+msgid "Posts Number per Page"
+msgstr ""
+
+#: cmsmasters-content-composer.php:813
+msgid "Enter your posts slider pause time"
+msgstr ""
+
+#: cmsmasters-content-composer.php:815
+msgid "Posts Metadata"
+msgstr ""
+
+#: cmsmasters-content-composer.php:817
+msgid "Projects Metadata"
+msgstr ""
+
+#: cmsmasters-content-composer.php:818
+msgid "Choose portfolio projects metadata you want to be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:825
+msgid "Pricing Table"
+msgstr ""
+
+#: cmsmasters-content-composer.php:826
+msgid "Offers"
+msgstr ""
+
+#: cmsmasters-content-composer.php:827
+msgid "Here you can add, edit, remove or sort pricing table offers"
+msgstr ""
+
+#: cmsmasters-content-composer.php:828
+msgid "Choose number of pricing table offers per row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:835
+#: inc/profile/profiles-posttype.php:25
+#: inc/profile/profiles-posttype.php:26
+#: inc/profile/profiles-posttype.php:27
+msgid "Profiles"
+msgstr ""
+
+#: cmsmasters-content-composer.php:836
+msgid "Choose your profiles order by parameter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:837
+msgid "Profiles Number per Page"
+msgstr ""
+
+#: cmsmasters-content-composer.php:838
+msgid "number, if empty - show all profiles"
+msgstr ""
+
+#: cmsmasters-content-composer.php:839
+msgid "Show profiles associated with certain categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:840
+msgid "If you don't choose any profile categories, all your profiles will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:841
+msgid "Choose number of profiles per row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:847
+msgid "Progress Bars"
+msgstr ""
+
+#: cmsmasters-content-composer.php:848
+msgid "Here you can add, edit, remove or sort progress bars"
+msgstr ""
+
+#: cmsmasters-content-composer.php:849
+msgid "Choose mode of your progress bars"
+msgstr ""
+
+#: cmsmasters-content-composer.php:850
+msgid "Bars"
+msgstr ""
+
+#: cmsmasters-content-composer.php:851
+msgid "Circles"
+msgstr ""
+
+#: cmsmasters-content-composer.php:852
+msgid "Progress Bars Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:853
+#: cmsmasters-content-composer.php:858
+msgid "Number per Row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:854
+msgid "This option not work for progress bars with mode bars and type horizontal"
+msgstr ""
+
+#: cmsmasters-content-composer.php:855
+msgid "Counters"
+msgstr ""
+
+#: cmsmasters-content-composer.php:856
+msgid "Here you can add, edit, remove or sort counters"
+msgstr ""
+
+#: cmsmasters-content-composer.php:857
+msgid "Counters Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:859
+msgid "Choose number of counters per row."
+msgstr ""
+
+#: cmsmasters-content-composer.php:866
+msgid "Quotes"
+msgstr ""
+
+#: cmsmasters-content-composer.php:867
+msgid "Here you can add, edit, remove or sort quotes"
+msgstr ""
+
+#: cmsmasters-content-composer.php:868
+msgid "Choose your quotes visibility mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:869
+msgid "Grid mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:870
+msgid "Slider mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:871
+msgid "Choose number of quotes per row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:873
+msgid "Time before next quote will appear"
+msgstr ""
+
+#: cmsmasters-content-composer.php:874
+msgid "if '0' - autoslide disabled"
+msgstr ""
+
+#: cmsmasters-content-composer.php:880
+msgid "Sidebar"
+msgstr ""
+
+#: cmsmasters-content-composer.php:881
+msgid "Choose one of already existing sidebars here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:882
+msgid "or, you can create your own sidebar"
+msgstr ""
+
+#: cmsmasters-content-composer.php:883
+msgid "here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:884
+msgid "Sidebar Layout"
+msgstr ""
+
+#: cmsmasters-content-composer.php:885
+msgid "we recommend to use this option for horizontal sidebars"
+msgstr ""
+
+#: cmsmasters-content-composer.php:893
+msgid "Layer Slider"
+msgstr ""
+
+#: cmsmasters-content-composer.php:894
+msgid "Revolution Slider"
+msgstr ""
+
+#: cmsmasters-content-composer.php:895
+msgid "Slider Plugin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:896
+msgid "Choose one of supported slider plugins"
+msgstr ""
+
+#: cmsmasters-content-composer.php:897
+msgid "Please make sure that the Slider plugin you have chosen is currently installed and activated."
+msgstr ""
+
+#: cmsmasters-content-composer.php:898
+msgid "Layer Slider Name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:899
+msgid "Choose your slider name from Layer Slider plugin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:900
+msgid "Revolution Slider Name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:901
+msgid "Choose your slider name from Revolution Slider plugin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:908
+msgid "Social Sharing"
+msgstr ""
+
+#: cmsmasters-content-composer.php:909
+msgid "Facebook Like Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:910
+msgid "Twitter Tweet Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:911
+msgid "Google+ Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:912
+msgid "Pinterest Pin It Button"
+msgstr ""
+
+#: cmsmasters-content-composer.php:913
+msgid "Buttons Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:920
+msgid "Table"
+msgstr ""
+
+#: cmsmasters-content-composer.php:921
+msgid "Table Content"
+msgstr ""
+
+#: cmsmasters-content-composer.php:922
+msgid "Build your table and fill it with data"
+msgstr ""
+
+#: cmsmasters-content-composer.php:923
+msgid "Table Caption"
+msgstr ""
+
+#: cmsmasters-content-composer.php:924
+msgid "Add a short caption for your table so that visitors know what this data is about"
+msgstr ""
+
+#: cmsmasters-content-composer.php:931
+msgid "Tabs / Tour"
+msgstr ""
+
+#: cmsmasters-content-composer.php:932
+msgid "Here you can add, edit, remove or sort tabs"
+msgstr ""
+
+#: cmsmasters-content-composer.php:933
+msgid "How should the tabs be displayed, top or side?"
+msgstr ""
+
+#: cmsmasters-content-composer.php:934
+msgid "Tabs mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:935
+msgid "Tour mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:936
+msgid "Position"
+msgstr ""
+
+#: cmsmasters-content-composer.php:937
+msgid "Choose tour tabs position"
+msgstr ""
+
+#: cmsmasters-content-composer.php:938
+msgid "Active Tab"
+msgstr ""
+
+#: cmsmasters-content-composer.php:939
+msgid "Enter the number of the tab that should be open initially."
+msgstr ""
+
+#: cmsmasters-content-composer.php:940
+msgid "If empty first tab should be open on page load"
+msgstr ""
+
+#: cmsmasters-content-composer.php:947
+msgid "Toggles / Accordion"
+msgstr ""
+
+#: cmsmasters-content-composer.php:948
+msgid "Here you can add, edit, remove or sort toggles"
+msgstr ""
+
+#: cmsmasters-content-composer.php:949
+msgid "Should only one toggle be active at a time or can multiple toggles be open at the same time?"
+msgstr ""
+
+#: cmsmasters-content-composer.php:950
+msgid "Toggles mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:951
+msgid "Accordion mode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:952
+msgid "Active Toggle"
+msgstr ""
+
+#: cmsmasters-content-composer.php:953
+msgid "Enter the number of the toggle that should be open initially."
+msgstr ""
+
+#: cmsmasters-content-composer.php:954
+msgid "If empty all toggles should be close on page load"
+msgstr ""
+
+#: cmsmasters-content-composer.php:956
+msgid "If checked, toggles sorting will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:963
+msgid "Twitter Stripe"
+msgstr ""
+
+#: cmsmasters-content-composer.php:964
+msgid "Twitter Username"
+msgstr ""
+
+#: cmsmasters-content-composer.php:965
+msgid "Enter your Twitter username"
+msgstr ""
+
+#: cmsmasters-content-composer.php:966
+msgid "Tweets Number"
+msgstr ""
+
+#: cmsmasters-content-composer.php:967
+msgid "Enter the number of latest tweets you'd like to display"
+msgstr ""
+
+#: cmsmasters-content-composer.php:968
+msgid "(5 - if empty)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:969
+msgid "Date visibility"
+msgstr ""
+
+#: cmsmasters-content-composer.php:970
+msgid "Show or hide tweet date"
+msgstr ""
+
+#: cmsmasters-content-composer.php:971
+msgid "Slider Controls"
+msgstr ""
+
+#: cmsmasters-content-composer.php:972
+msgid "If checked, enable tweets slider controls"
+msgstr ""
+
+#: cmsmasters-content-composer.php:974
+msgid "Animate next tweet automatically"
+msgstr ""
+
+#: cmsmasters-content-composer.php:976
+msgid "Time before next slide will appear"
+msgstr ""
+
+#: cmsmasters-content-composer.php:977
+msgid "If empty - 3"
+msgstr ""
+
+#: cmsmasters-content-composer.php:984
+#: cmsmasters-content-composer.php:1322
+msgid "Video"
+msgstr ""
+
+#: cmsmasters-content-composer.php:985
+msgid "Here you can add, edit, remove or sort video links"
+msgstr ""
+
+#: cmsmasters-content-composer.php:986
+msgid "Please add video in several formats for your shortcode to work properly in all browsers"
+msgstr ""
+
+#: cmsmasters-content-composer.php:987
+msgid "Poster"
+msgstr ""
+
+#: cmsmasters-content-composer.php:988
+msgid "Defines image to show as placeholder before the media plays"
+msgstr ""
+
+#: cmsmasters-content-composer.php:990
+msgid "Defines max width of the media"
+msgstr ""
+
+#: cmsmasters-content-composer.php:992
+msgid "Defines max height of the media"
+msgstr ""
+
+#: cmsmasters-content-composer.php:993
+msgid "If checked, video will play as soon as the video is ready"
+msgstr ""
+
+#: cmsmasters-content-composer.php:994
+msgid "If checked, video will be repeated from the beginning after finishing"
+msgstr ""
+
+#: cmsmasters-content-composer.php:995
+msgid "Specifies if and how the video should be loaded when the page loads"
+msgstr ""
+
+#: cmsmasters-content-composer.php:996
+msgid "None - the video should not be loaded when the page loads"
+msgstr ""
+
+#: cmsmasters-content-composer.php:997
+msgid "Auto - the video should be loaded entirely when the page loads"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1004
+msgid "Custom HTML"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1005
+msgid "HTML Code"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1006
+msgid "Enter here your custom HTML code"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1013
+msgid "Custom CSS"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1014
+msgid "CSS Code"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1015
+msgid "Enter here your custom CSS code"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1022
+msgid "Custom JS"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1023
+msgid "JavaScript Code"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1024
+msgid "Enter here your custom JavaScript code"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1030
+#: cmsmasters-content-composer.php:1045
+msgid "Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1031
+msgid "WooCommerce Shortcode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1032
+msgid "Choose a WooCommerce shortcode to use"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1033
+msgid "Recent Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1034
+msgid "Featured Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1035
+msgid "Product Categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1036
+msgid "Sale Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1037
+msgid "Best Selling Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1038
+msgid "Top Rated Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1039
+msgid "Choose your products 'order by' parameter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1040
+msgid "Sorting will not be applied for"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1041
+msgid "Number of Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1042
+msgid "Enter the number of products for showing per page"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1043
+msgid "Choose number of products per row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1044
+msgid "Selected Products"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1046
+msgid "Choose products to be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1047
+msgid "All products will be shown if empty"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1053
+msgid "PayPal Donations"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1054
+msgid "Donation Amount"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1055
+msgid "Enter donation amount"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1056
+msgid "If empty, no fixed donation amount will be set"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1057
+msgid "Donation Purpose"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1058
+msgid "Enter donation purpose"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1059
+msgid "If empty, a Donator will be able to enter any purpose"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1060
+msgid "Donation Reference"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1061
+msgid "Enter reference for the donation"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1062
+msgid "If empty, no reference will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1063
+#: cmsmasters-content-composer.php:1247
+msgid "Button Text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1064
+msgid "Enter button text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1065
+msgid "If empty, no text will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1072
+msgid "Donations"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1073
+msgid "Number of Donations to Show"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1074
+msgid "Set 0 to show all donations"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1075
+#: cmsmasters-content-composer.php:1086
+#: cmsmasters-content-composer.php:1087
+msgid "Campaigns"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1076
+msgid "Campaigns to show donations from"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1077
+msgid "Donations from all campaigns will be shown if none is selected"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1078
+msgid "Donations Meta to Display"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1081
+msgid "Featured Campaign"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1082
+msgid "Campaign to Show"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1083
+msgid "Campaign Meta to Display"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1088
+msgid "Select one or several campaigns"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1089
+msgid "All campaigns will be shown if none is selected"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1091
+msgid "Select one or several categories to show campaigns from"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1092
+msgid "Can be used only if 'Order By' parameter is set to 'Date' or 'Random'. Select none to show all"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1093
+msgid "Number of Campaigns to Show"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1094
+msgid "Set 0 to show all campaigns"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1095
+msgid "Enter your campaigns slider pause time"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1096
+msgid "Campaigns Meta to Display"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1102
+msgid "Timetable"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1103
+msgid "Events"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1104
+msgid "Select the events that are to be displayed in timetable"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1105
+#: cmsmasters-content-composer.php:1108
+#: cmsmasters-content-composer.php:1111
+#: cmsmasters-content-composer.php:1114
+msgid "Hold the CTRL key to select multiple items"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1106
+msgid "Event categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1107
+msgid "Select the events categories that are to be displayed in timetable"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1109
+msgid "Hour categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1110
+msgid "Select the hour categories (if defined for existing event hours) for events that are to be displayed in timetable"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1113
+msgid "Select the columns that are to be displayed in timetable"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1115
+msgid "Hour measure"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1116
+msgid "Choose hour measure for event hours"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1117
+msgid "Hour (1h)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1118
+msgid "Half hour (30min)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1119
+msgid "Quarter hour (15min)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1120
+msgid "Filter style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1121
+msgid "Choose between dropdown menu and tabs for event filtering"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1122
+msgid "Dropdown list"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1123
+msgid "Tabs"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1124
+msgid "Filter kind"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1125
+msgid "Choose between filtering by events or events categories"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1126
+msgid "By event"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1127
+msgid "By event category"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1128
+msgid "Filter label"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1129
+msgid "Specify text label for all events"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1130
+msgid "All Events"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1131
+msgid "Time format"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1133
+msgid "Custom Time Format"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1134
+msgid "Hide 'All Events' view"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1135
+msgid "Hide first (hours) column"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1136
+msgid "Show end hour in first (hours) column"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1137
+msgid "Event block layout"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1138
+msgid "Select one of the available event block layouts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1139
+#: cmsmasters-content-composer.php:1335
+msgid "Type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1140
+msgid "Hide empty rows"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1141
+msgid "Disable event url"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1142
+msgid "Text align"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1143
+msgid "Specify text align in timetable event block"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1144
+msgid "Id"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1145
+msgid "Assign a unique identifier to a timetable if you use more than one table on a single page"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1146
+msgid "Otherwise, leave this field blank"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1147
+msgid "Row height"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1148
+msgid "Timetable box background color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1149
+msgid "Timetable box hover background color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1150
+msgid "Timetable box text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1151
+msgid "Timetable box hover text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1152
+msgid "Timetable box hours text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1153
+msgid "Timetable box hours hover text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1154
+msgid "Row 1 style background color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1155
+msgid "Row 1 style text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1156
+msgid "Row 2 style background color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1157
+msgid "Row 2 style text color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1166
+msgid "Audio Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1167
+msgid "Enter audio file link here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1173
+msgid "Client"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1174
+msgid "Enter this client name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1175
+msgid "Logo"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1176
+msgid "Choose this client logo"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1177
+msgid "Enter this client website link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1178
+msgid "Client Target"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1179
+msgid "Enter client target here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1185
+msgid "Google Map Marker"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1187
+msgid "Choose Google map marker address type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1188
+msgid "Enter address to centre this map marker at"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1189
+msgid "Enter latitude to center your map marker"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1190
+msgid "Enter longitude to center your map marker"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1191
+msgid "Popup HTML"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1192
+msgid "Enter the content for this marker information popup"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1193
+msgid "Popup Visibility"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1194
+msgid "If checked, this marker information popup will be shown"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1201
+msgid "List Item"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1202
+msgid "Choose icon for this list item"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1203
+msgid "Choose image for this list item"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1204
+msgid "Enter this list item title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1205
+msgid "Enter this list item content."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1206
+msgid "This option works only for icon blocks"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1207
+msgid "Custom List Item Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1208
+msgid "If not checked, icon list item will use parent section color scheme colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1209
+msgid "Choose list item icon background color."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1215
+msgid "Counter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1216
+#: cmsmasters-content-composer.php:1266
+msgid "Description"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1217
+msgid "Counter Value"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1218
+msgid "Counter Value Prefix"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1219
+msgid "Counter Value Suffix"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1220
+msgid "Choose icon for your counter"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1221
+msgid "Custom Counter Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1222
+msgid "Enter counter icon border radius"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1223
+msgid "Counter Icon Custom Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1224
+msgid "Counter Icon Custom Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1225
+msgid "Counter Icon Custom Border Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1232
+msgid "Pricing Table Offer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1233
+msgid "Enter this pricing table offer title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1234
+msgid "Price"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1235
+msgid "Enter this pricing table offer price"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1236
+msgid "Coins"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1237
+msgid "Enter this pricing table offer price coins"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1238
+msgid "Currency"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1239
+msgid "Enter this pricing table offer currency"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1240
+msgid "Period"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1241
+msgid "Enter this pricing table offer period"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1242
+msgid "Custom Offer Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1243
+msgid "If not checked, pricing table offer will use parent section color scheme colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1244
+msgid "Choose color for this pricing table offer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1245
+msgid "Features"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1246
+msgid "Add pricing table offer features"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1248
+msgid "Enter this pricing table offer button text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1250
+msgid "Enter this pricing table offer button link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1251
+msgid "Best Offer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1252
+msgid "If checked, this pricing table offer will be highlighted"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1253
+msgid "Custom Best Offer Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1254
+msgid "If not checked, pricing table best offer will use parent section color scheme colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1255
+msgid "Best Offer Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1256
+msgid "Choose background color for this pricing table best offer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1257
+msgid "Best Offer Text Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1258
+msgid "Choose text color for this pricing table best offer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1264
+msgid "Progress Bar"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1265
+msgid "Enter this progress bar title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1267
+msgid "Enter this progress bar description text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1268
+msgid "Progress"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1269
+msgid "Choose this bar progress (percentage)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1270
+msgid "Choose icon for your progress bar"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1271
+msgid "Bar Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1272
+msgid "If not selected, progress bar will use parent section color scheme color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1278
+#: cmsmasters-content-composer.php:1284
+msgid "Quote"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1280
+msgid "Choose this quote author image"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1281
+msgid "Enter this team quote author name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1283
+msgid "Enter this quote subtitle"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1285
+msgid "Enter this quote text"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1286
+msgid "Website Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1287
+msgid "Enter the link of quote author website"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1288
+msgid "Website Name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1289
+msgid "Enter quote author website name"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1296
+msgid "Tab"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1297
+msgid "Enter this tab title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1298
+msgid "Enter this tab content"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1299
+msgid "Custom Tab Selector Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1300
+msgid "If not checked, tab selector will use parent section color scheme colors"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1301
+msgid "Tab Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1302
+msgid "Choose tab selector highlight color on mouseover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1303
+msgid "Choose icon for this tab"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1310
+msgid "Toggle"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1311
+msgid "Enter this toggle title"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1312
+msgid "Enter this toggle content"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1313
+msgid "Toggle Tags"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1314
+msgid "Enter additional toggle tags separated with commas."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1315
+msgid "Only for toggles with enabled sorting."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1323
+msgid "Video Link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1324
+msgid "Choose your video file here"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1333
+msgid "Dropcap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1334
+msgid "Enter the character/symbol for this dropcap"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1336
+msgid "Choose dropcap type"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1337
+msgid "Type 1"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1338
+msgid "Type 2"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1345
+msgid "Feature"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1346
+msgid "Enter the title for this link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1348
+msgid "Choose icon for this link"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1355
+msgid "Column"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1356
+msgid "Column animation effect when a user scrolls to its position for the first time."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1357
+msgid "Delay before column animation starts"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1358
+msgid "You can add additional CSS classes (separated by spaces) to the column, if you wish to style content elements differently"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1365
+msgid "Section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1366
+msgid "New Section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1367
+msgid "Row Top Style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1368
+#: cmsmasters-content-composer.php:1370
+msgid "If not \"default\", neither \"background image\" nor \"color overlay\" should be used"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1369
+msgid "Row Bottom Style"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1372
+msgid "Left Diagonal"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1373
+msgid "Right Diagonal"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1374
+msgid "Zigzag"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1375
+msgid "Triangle"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1376
+msgid "Color Scheme"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1377
+msgid "Choose a color scheme to be used for section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1378
+msgid "Custom Background Color"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1379
+msgid "If not checked, section background color will match background color for this section color scheme"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1380
+msgid "Choose background color for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1381
+msgid "Background Image"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1382
+msgid "Choose background image for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1383
+msgid "Background Position"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1384
+msgid "Select background position for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1385
+msgid "Vertical: top"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1386
+msgid "Vertical: center"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1387
+msgid "Vertical: bottom"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1388
+msgid "Horizontal: left"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1389
+msgid "Horizontal: center"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1390
+msgid "Horizontal: right"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1391
+msgid "Background Repeat"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1392
+msgid "Choose background repeat for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1393
+msgid "No Repeat"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1394
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1395
+msgid "Repeat Vertically"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1397
+msgid "Background Attachment"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1398
+msgid "Choose background attachment for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1399
+msgid "Scroll"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1401
+msgid "Background Size"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1402
+msgid "Choose background size for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1403
+msgid "image is added in its actual size regardless of the section dimensions"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1404
+msgid "image is resized to cover the whole section area"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1405
+msgid "image is resized to fit into the section area"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1407
+msgid "Cover"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1408
+msgid "Contain"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1409
+msgid "Background Parallax"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1410
+msgid "If checked, background image parallax effect will be enabled"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1411
+msgid "Background Parallax Ratio"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1412
+msgid "Background image reposition step on scroll"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1413
+msgid "Color Overlay Visibility"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1414
+msgid "If checked, section color overlay will be shown over the section background"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1415
+msgid "Color Overlay"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1416
+msgid "Choose color overlay for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1417
+msgid "Overlay Opacity"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1418
+msgid "Choose color overlay opacity for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1419
+msgid "percentage"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1420
+msgid "Top Padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1421
+msgid "Enter section top padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1422
+msgid "Bottom Padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1423
+msgid "Enter section bottom padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1424
+msgid "Content Width"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1425
+msgid "Choose content width type for this section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1426
+msgid "Boxed"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1428
+msgid "Left Custom Padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1429
+msgid "Enter section left padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1430
+msgid "number, percentage (default value if empty)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1431
+msgid "Right Custom Padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1432
+msgid "Enter section right padding"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1433
+msgid "No Margin"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1434
+msgid "Disable margins for this section (use this to stick sections together seamlessly)"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1435
+msgid "Merge with the Next Section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1436
+msgid "If enabled, values for all the settings that are located below, will be imported from the following section. In this case there is NO NEED to apply settings for this section, they will not take effect."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1437
+msgid "Please make sure to enable this ONLY if both are true: <br />1. Another section is present below current section. <br />2. This option is disabled for the section below."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1438
+msgid "Columns Custom Height Behavior"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1439
+msgid "All columns in this section will have equal height."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1440
+msgid "Each column should contain only one shortcode in this case."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1441
+msgid "Section ID"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1442
+msgid "Apply a custom 'id' attribute to the section, so that you could apply a unique style via CSS. This option is also helpful if you want to use anchor links (build one-page navigation) to scroll to this section when a link is clicked."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1443
+msgid "Use this option with caution and make sure: <br />1. That you use only allowed characters (a-z). No special characters can be used. <br />2. Please don't use the following id values: page, main, header, middle, bottom, footer."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1444
+msgid "You can add additional CSS classes (separated by spaces) to the section, if you wish to style content elements differently"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1460
+msgid "Remove Section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1461
+msgid "Clone Section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1462
+msgid "Edit Section"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1463
+msgid "Edit Column"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1464
+msgid "Add Shortcode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1465
+msgid "Remove Shortcode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1466
+msgid "Clone Shortcode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1467
+msgid "Edit Shortcode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1468
+msgid ""
+"Do you really want delete all content?\n"
+"All data will be lost!"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1469
+msgid ""
+"Do you really want delete this element?\n"
+"All data from this element will be lost!"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1470
+msgid ""
+"Do you really want delete this template?\n"
+"All data from this template will be lost!"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1471
+msgid ""
+"Error! Enter valid template name. Minimum 3 character.\n"
+"Allowed characters: letters, numbers, whitespace"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1472
+msgid "Enter the name for new template"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1473
+msgid ""
+"Error on page!\n"
+"Please reload page and try again"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1483
+msgid "Cancel"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1484
+#: cmsmasters-content-composer.php:1610
+msgid "Update"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1485
+msgid "Remove"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1486
+msgid "Deselect"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1487
+msgid "Add Media"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1488
+msgid "Shortcode Settings"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1489
+msgid "Choose Shortcode"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1490
+msgid "Choose Image"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1491
+msgid "Choose Video"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1492
+msgid "Choose Audio"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1493
+msgid "Insert Image"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1494
+msgid "Insert Video"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1495
+msgid "Insert Audio"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1496
+msgid "Create Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1497
+msgid "Edit Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1498
+msgid "Create/Edit Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1499
+msgid "Insert Gallery"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1500
+msgid "Choose icon"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1501
+msgid "Add Table Column"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1502
+msgid "Add Table Row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1503
+msgid "Text Align Left"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1504
+msgid "Text Align Right"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1505
+msgid "Text Align Center"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1506
+msgid "Default Row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1507
+msgid "Header Row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1508
+msgid "Footer Row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1509
+msgid "Delete Row"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1510
+msgid "Delete Column"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1511
+msgid "opacity"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1512
+msgid ""
+"Error on page!\n"
+"Reload page and try again."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1576
+msgid "Default Editor"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1576
+msgid "Content Composer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1607
+msgid "Expand Content Composer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1608
+msgid "Clear Composer Content"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1609
+msgid "Preview Changes"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1613
+msgid "Add elements to the top"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1617
+msgid "Don't confirm element deleting!"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1620
+msgid "Templates"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1623
+msgid "Save All as Template"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1624
+msgid "Choose Template:"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1631
+#: framework/cmsmasters-composer-functions.php:84
+msgid "Load Selected Template"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1632
+#: framework/cmsmasters-composer-functions.php:85
+msgid "Delete Selected Template"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1640
+msgid "Add New Template"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1647
+msgid "All content was saved as template successfully."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1650
+msgid "Selected sections was saved as template successfully."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1653
+msgid "Template was loaded to composer successfully."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1656
+msgid "Template was deleted successfully."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1671
+msgid "Visual Content Composer"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1775
+msgid "Your theme doesn't support CMSMasters Content Composer plugin. Please use appropriate CMSMasters theme."
+msgstr ""
+
+#: cmsmasters-content-composer.php:1776
+msgid "Error!"
+msgstr ""
+
+#: cmsmasters-content-composer.php:1802
+msgid "CMSMasters Content Composer plugin was deactivated, because your theme doesn't support it. Please use appropriate CMSMasters theme."
+msgstr ""
+
+#: framework/cmsmasters-composer-functions.php:62
+msgid "You must be logged in to access this script."
+msgstr ""
+
+#: framework/cmsmasters-composer-lightbox-functions.php:230
+msgid "Unnamed"
+msgstr ""
+
+#: framework/cmsmasters-composer-lightbox-functions.php:548
+#: inc/project/projects-posttype.php:131
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/cmsmasters-composer-lightbox-functions.php:552
+msgid "Large"
+msgstr ""
+
+#: framework/cmsmasters-composer-lightbox-functions.php:561
+msgid "Full Size"
+msgstr ""
+
+#: framework/cmsmasters-composer-lightbox-functions.php:561
+msgid "Original image size"
+msgstr ""
+
+#: framework/cmsmasters-composer-lightbox-functions.php:740
+msgid "No specific campaign"
+msgstr ""
+
+#: framework/cmsmasters-composer-templates-posttype.php:16
+msgid "Content Templates"
+msgstr ""
+
+#: framework/cmsmasters-composer-templates-posttype.php:17
+msgid "Content Template"
+msgstr ""
+
+#: framework/cmsmasters-editor-plugin-register.php:24
+msgid "CMSMasters Shortcodes"
+msgstr ""
+
+#: framework/inc/editor-additions.php:32
+msgid "Paragraph"
+msgstr ""
+
+#: framework/inc/editor-additions.php:33
+msgid "Div"
+msgstr ""
+
+#: framework/inc/editor-additions.php:34
+msgid "Header 1"
+msgstr ""
+
+#: framework/inc/editor-additions.php:35
+msgid "Header 2"
+msgstr ""
+
+#: framework/inc/editor-additions.php:36
+msgid "Header 3"
+msgstr ""
+
+#: framework/inc/editor-additions.php:37
+msgid "Header 4"
+msgstr ""
+
+#: framework/inc/editor-additions.php:38
+msgid "Header 5"
+msgstr ""
+
+#: framework/inc/editor-additions.php:39
+msgid "Header 6"
+msgstr ""
+
+#: framework/inc/editor-additions.php:41
+msgid "Pre"
+msgstr ""
+
+#: framework/inc/editor-additions.php:42
+msgid "Superscript"
+msgstr ""
+
+#: framework/inc/editor-additions.php:43
+msgid "Subscript"
+msgstr ""
+
+#: framework/inc/editor-additions.php:44
+msgid "Code"
+msgstr ""
+
+#: inc/shortcodes.php:1353
+msgid "All"
+msgstr ""
+
+#: inc/shortcodes.php:3865
+msgid "Load More"
+msgstr ""
+
+#: inc/shortcodes.php:4145
+msgid "Enter quote text here"
+msgstr ""
+
+#: inc/shortcodes.php:4839
+#, php-format
+msgid "Check out '%s' on %s website"
+msgstr ""
+
+#: inc/shortcodes.php:4839
+msgid "Twitter"
+msgstr ""
+
+#: inc/shortcodes.php:4845
+msgid "Google+"
+msgstr ""
+
+#: inc/shortcodes.php:4876
+msgid "Pinterest"
+msgstr ""
+
+#: inc/shortcodes.php:4882
+msgid "Facebook"
+msgstr ""
+
+#: inc/shortcodes.php:5127
+msgid "ago"
+msgstr ""
+
+#: inc/shortcodes.php:5134
+msgid "Please add your Twitter API keys"
+msgstr ""
+
+#: inc/shortcodes.php:5134
+msgid "read more how"
+msgstr ""
+
+#: inc/shortcodes.php:5417
+msgid "Load More Posts"
+msgstr ""
+
+#: inc/shortcodes.php:5423
+#: inc/shortcodes.php:5715
+msgid "All Categories"
+msgstr ""
+
+#: inc/shortcodes.php:5711
+msgid "Load More Projects"
+msgstr ""
+
+#: inc/like/likes-posttype.php:17
+msgid "Like"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:28
+msgid "All Profiles"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:29
+#: inc/project/projects-posttype.php:31
+msgid "Add New"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:30
+msgid "Add New Profile"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:31
+msgid "Edit Profile"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:32
+msgid "New Profile"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:33
+msgid "View Profile"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:34
+msgid "Search Profiles"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:35
+msgid "No Profiles found"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:36
+msgid "No Profiles found in Trash"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:77
+msgid "Profile Categories"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:78
+msgid "Profile Category"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:109
+msgid "Avatar"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:141
+msgid "No Avatar"
+msgstr ""
+
+#: inc/profile/profiles-posttype.php:160
+#: inc/project/projects-posttype.php:184
+msgid "Uncategorized"
+msgstr ""
+
+#: inc/project/projects-posttype.php:27
+#: inc/project/projects-posttype.php:29
+msgid "Projects"
+msgstr ""
+
+#: inc/project/projects-posttype.php:28
+msgid "Project"
+msgstr ""
+
+#: inc/project/projects-posttype.php:30
+msgid "All Projects"
+msgstr ""
+
+#: inc/project/projects-posttype.php:32
+msgid "Add New Project"
+msgstr ""
+
+#: inc/project/projects-posttype.php:33
+msgid "Edit Project"
+msgstr ""
+
+#: inc/project/projects-posttype.php:34
+msgid "New Project"
+msgstr ""
+
+#: inc/project/projects-posttype.php:35
+msgid "View Project"
+msgstr ""
+
+#: inc/project/projects-posttype.php:36
+msgid "Search Projects"
+msgstr ""
+
+#: inc/project/projects-posttype.php:37
+msgid "No projects found"
+msgstr ""
+
+#: inc/project/projects-posttype.php:38
+msgid "No projects found in Trash"
+msgstr ""
+
+#: inc/project/projects-posttype.php:81
+msgid "Project Categories"
+msgstr ""
+
+#: inc/project/projects-posttype.php:82
+msgid "Project Category"
+msgstr ""
+
+#: inc/project/projects-posttype.php:100
+msgid "Project Tags"
+msgstr ""
+
+#: inc/project/projects-posttype.php:101
+msgid "Project Tag"
+msgstr ""
+
+#: inc/project/projects-posttype.php:165
+msgid "No Thumbnail"
+msgstr ""
+
+#: inc/project/projects-posttype.php:203
+msgid "No Tags"
+msgstr ""
+
